@@ -3,7 +3,7 @@
 This interactive Introduction to Java course, based on Java LTS, is tailored specifically for beginners with no previous programming experience, targeting those pursuing software or data engineering careers. This course introduces fundamental concepts, ranging from writing code comments and executing arithmetic operations to exploring Java's primitive and non-primitive data types. Learners will learn to manage information by declaring variables and employing a variety of data structures. They will understand comparison operators and use them interactively to execute code based on certain conditions. The course concludes with an exploration of for and while loops as well as switch statements.
 
 ## Chapter 1: Introduction to Java
-Java is everywhere and many things are created with it. Learn why so many choose it. No prior knowledge is required.
+Java seems to be everywhere. Why do so many choose it? No prior knowledge is required.
 
 ### Lesson 1.1: History, Differences, Why Java?
 * Learner will be able to summarize the history of Java
@@ -24,18 +24,18 @@ Java is everywhere and many things are created with it. Learn why so many choose
 The basic building blocks of the language and how they fit together.
 
 ### Lesson 2.1: Data Types - Primitive
-* The learner will be able to list the basic data types and their value limits 
+* The learner will be able to create basic data types and know their value limits 
 * The learner will be able to write values using different types of notation
-* The learner will be able to convert values between different data types
+* The learner will be able to recognize other ways to create literal values that improve readability
 
 ### Lesson 2.2: Variables
 * The learner will be able to create variables and assign values and expressions to them
 * The learner will be able to demonstrate how variables are used
-* The learner will be able to decide on useful variable names
-* The learner will be able to convert variables from one type to another
+* The learner will be able to compose useful variable names
+* The learner will be able to convert variable values from one type to another
 
 ### Lesson 2.3: Operators
-* The learner will be able to identify the different types of operators available
+* The learner will be able to identify the different types of operators
 * The learner will be able to compare two different values
 * The learner will be able to construct mathematical and logical expressions
 * The learner will be able to evaluate the order of operations in an expression
@@ -56,8 +56,8 @@ Comparing values and making decisions.
 
 ### Lesson 3.2: Blocks and Scope
 * Learner will be able to construct a block of statements
-* Learner will be able to explain what variable scope is
-* Learner will be able to identify the scope of a variable within nested blocks
+* Learner will be able to explain the concept of variable scope
+* Learner will be able to reason about the scope of a variable within nested blocks
 
 ### Lesson 3.3: Conditional Statements
 * Learner will be able to construct a conditional statement
@@ -76,10 +76,10 @@ Doing the same thing to a lot of values.
 ### Lesson 4.1: `for` loop
 * Learner will be able to construct the 3-statement version of a `for` loop
 * Learner will be able to construct the `for..each` loop
-* Learner will be able to create the statements needed for both styles of `for` loops
+* Learner will be able to evaluate the statements and their use in both styles of `for` loops
 
 ### Lesson 4.2: `while` and `do...while` loops
-* Learner will be able to construct either a `while` or `do..while` loop construct
+* Learner will be able to construct either a `while` or `do..while` loop
 * Learner will be able to evaluate whether their loop will run forever
 * Learner will be able to organize loops inside of other loops
 
